@@ -18,7 +18,7 @@ Now, let's begin.
 ## Table of Contents
 
 ### Part I: The Genesis - Foundations of a New World
-*   [Chapter 1: In the Beginning... There was the Customer (What is Salesforce?)](placeholder-for-now)
+*   [Chapter 1: In the Beginning... There was the Customer (What is Salesforce?)](Part-I/Chapter-01.md)
 *   Chapter 2: The Guardian's Oath (What is Quality Assurance?)
 *   Chapter 3: The Sacred Union (Why Salesforce QA is a Critical Role)
 
