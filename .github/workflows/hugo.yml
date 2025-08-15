@@ -24,20 +24,17 @@ jobs:
         with:
           submodules: recursive
 
-      # THIS IS THE NEW DEBUGGING STEP
-      - name: List files in the repository
-        run: ls -R
-
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.129.0/hugo_extended_0.129.0_linux-amd64.deb  \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      # THIS IS THE NEW, CORRECT WAY TO INSTALL HUGO
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
         
-      # THIS IS THE NEW, SIMPLIFIED BUILD STEP
       - name: Build with Hugo
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
 
