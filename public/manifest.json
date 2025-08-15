@@ -1,0 +1,15 @@
+{
+  "name": "The Salesforce QA Bible",
+  "short_name": "The Salesforce QA Bible",
+  "start_url": "/The-Salesforce-QA-Bible/",
+  "scope": "/The-Salesforce-QA-Bible/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/The-Salesforce-QA-Bible/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

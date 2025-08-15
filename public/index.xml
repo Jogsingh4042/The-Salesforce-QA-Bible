@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Salesforce QA Bible</title>
+    <link>http://localhost:1313/The-Salesforce-QA-Bible/</link>
+    <description>Recent content on The Salesforce QA Bible</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/The-Salesforce-QA-Bible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1</title>
+      <link>http://localhost:1313/The-Salesforce-QA-Bible/docs/part-i/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/The-Salesforce-QA-Bible/docs/part-i/chapter-1/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;weight-1&#34;&gt;&#xD;&#xA;  title: &amp;lsquo;Chapter 1: In the Beginning&amp;hellip;&amp;rsquo;&#xA;weight: 1&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#weight-1&#34;&gt;#&lt;/a&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h1 id=&#34;chapter-1-in-the-beginning-there-was-the-customer&#34;&gt;&#xD;&#xA;  Chapter 1: In the Beginning&amp;hellip; There was the Customer&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#chapter-1-in-the-beginning-there-was-the-customer&#34;&gt;#&lt;/a&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;(What is Salesforce?)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Before we can guard the cathedral, we must understand its architecture.&lt;/p&gt;&#xA;&lt;p&gt;At its simplest, &lt;strong&gt;Salesforce is a company that provides cloud-based software designed to help businesses find, win, and keep customers happy.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;But that&amp;rsquo;s like calling a skyscraper a &amp;ldquo;tall building.&amp;rdquo; It&amp;rsquo;s true, but it misses the grandeur. Let&amp;rsquo;s use a better analogy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

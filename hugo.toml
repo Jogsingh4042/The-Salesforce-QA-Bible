@@ -1,0 +1,17 @@
+baseURL = 'https://Jogsingh4042.github.io/The-Salesforce-QA-Bible/'
+languageCode = 'en-us'
+title = 'The Salesforce QA Bible'
+theme = 'hugo-book'
+
+# Book configuration
+[params]
+# (Optional, override in front matter) Book's menu title to display in header. Title is used if not set.
+BookMenu = 'Chapters'
+# (Optional, path to logo).
+BookLogo = 'logo.png'
+# (Optional, path to a book cover).
+BookCover = 'cover.png'
+# (Optional, enable a switch to change theme).
+BookTheme = 'light'
+# (Optional, allows reader to see the date of the last modification of the page).
+LastMod = true
